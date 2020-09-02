@@ -1,0 +1,7 @@
+#main {
+    min-width: 1000px;
+}
+img {
+    max-width: 450px;
+    display: block; margin: 0 auto; margin-top: 40px;
+}
